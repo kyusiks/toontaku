@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">툰덕후</string>
+    <string name="str_donTitle">툰덕후 후원</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_yes">네, 그럴게요!</string>
+    <string name="str_no">아니요, 안할래요.</string>
+    <string name="str_comp">완료!</string>
+    <string name="str_rusure">정말요?</string>
+    <string name="str_gudokCancle">[내가 보는 웹툰]에서 삭제 할까요?</string>
+    <string name="str_gudokAdd">[내가 보는 웹툰]에 추가할까요?</string>
+    <string name="str_myList">내가 보는 웹툰</string>
+    <string name="str_dbClear">[내가 보는 웹툰]이 초기화되요. 초기화 할까요?</string>
+    <string name="str_search">검색</string>
+    <string name="str_favo">인기웹툰</string>
+    <string name="str_setting">설정</string>
+    <string name="str_searchWords">의 검색 결과</string>
+    <string name="str_confirmUpdating">업데이트된 내용을 확인하고 있어요.</string>
+    <string name="str_confirmUpdated">업데이트된 내용을 보여드릴게요.</string>
+    <string name="str_atLast">가장 최근회에요.</string>
+    <string name="str_atFirst">가장 첫회에요.</string>
+    <string name="str_oneMoreFinish">[뒤로]버튼을 한번 더 누르시면 종료되요.</string>
+    <string name="str_noSearchData">검색된 웹툰이 없어요 ㅠㅠ</string>
+    <string name="str_alert">알려요!</string>
+    <string name="str_noMyList">내가 보는 웹툰을 추가해 보세요!</string>
+    <string name="str_firstLoading">툰덕후가 버전업!했어요. \n최적화작업 진행할게요. 잠시만요!</string>
+    <string name="str_toontakuFavo">툰덕후추천웹툰</string>
+    <string name="str_donation">감사드려요! 툰덕후는 여러분의 사랑과 후원으로 조금씩 자라나고 있어요.\n\n툰덕후의 든든한 후원자가 되어주세요!\n\n(후원금액은 다음 단계에서 선택하실 수 있어요.)</string>
+    <string name="str_backup">[백업]\n[내가 보는 웹툰]이 서버에 백업되었어요. 2주 이내에 아래의 복원키를 입력하여 진행해주세요!\n\n복원키 : %1$s \n\n\n[복원]\n지금 복원작업을 진행하시겠어요? 복원키를 입력해주세요!</string>
+    <string name="str_backupNo">닫기</string>
+    <string name="str_backupYes">복원하기</string>
+    <string name="str_backupTitle">백업/복원하기</string>
+    <string name="str_backupKey">복원하시려면 복원키를 입력해 주세요!</string>
+    <string name="str_restoreEmpty">복원하려는 내용이 없어요. ㅠㅠ [내가 보는 웹툰]이 없거나, 백업된적이 없거나, 백업한지 2주 이상 지난 것 같아요.\n\n새로 [내가 보는 웹툰]을 구성해 주세요.</string>
+    <string name="str_restore">%1$s 등 %2$d건을 복원할 수 있어요.\n\n복원할까요?!</string>
+    <string name="str_netErr">통신 실패! 네트워크가 불안정해요.\n잠시 후 다시 시도해 주세요!</string>
+</resources>
